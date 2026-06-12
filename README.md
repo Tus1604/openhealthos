@@ -1,16 +1,16 @@
-# ImmuForge
+# ImmuCore
 
 <p align="center">
-  <img src="images/logo.png" alt="OpenHealthOS Logo" width="200"/>
+  <img src="images/logo.png" alt="ImmuCore Logo" width="200"/>
 </p>
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 
-OpenHealthOS is a **local-first, privacy-respecting personal health operating system**. It is designed to empower individuals to own, manage, and analyze their health, fitness, and physiological data without relying on cloud servers or compromising privacy.
+ImmuCore is a **local-first, privacy-respecting personal health operating system**. It is designed to empower individuals to own, manage, and analyze their health, fitness, and physiological data without relying on cloud servers or compromising privacy.
 
 ## Features (Core Backend)
-The foundation of OpenHealthOS is a robust, extensible SQLite data warehouse that currently supports tracking:
+The foundation of ImmuCore is a robust, extensible SQLite data warehouse that currently supports tracking:
 - **Activities**: Workouts, durations, and activity types.
 - **Sleep Sessions**: Sleep duration and quality tracking.
 - **HRV Readings**: Heart Rate Variability tracking for recovery metrics.
@@ -31,8 +31,8 @@ The foundation of OpenHealthOS is a robust, extensible SQLite data warehouse tha
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/OpenHealthOS/openhealthos.git
-   cd openhealthos
+   git clone https://github.com/dhruvDev23/immucore.git
+   cd immucore
    ```
 
 2. **Set up a Virtual Environment:**

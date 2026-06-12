@@ -1,6 +1,6 @@
-# Contributing to OpenHealthOS
+# Contributing to ImmuCore
 
-Thank you for your interest in contributing to OpenHealthOS! We are building a local-first, privacy-respecting personal health operating system, and we welcome contributions of all kinds.
+Thank you for your interest in contributing to ImmuCore! We are building a local-first, privacy-respecting personal health operating system, and we welcome contributions of all kinds.
 
 ## How to Contribute
 

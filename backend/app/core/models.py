@@ -5,7 +5,8 @@ from sqlalchemy.orm import declarative_base
 # Creates the base class
 Base = declarative_base()
 
-# Acitvity class
+
+# Activity class
 class Activity(Base):
     __tablename__ = 'activities'
 
@@ -59,6 +60,7 @@ class BodyMetric(Base):
     height_in_cm = Column(Integer, nullable=False)
     resting_hr = Column(Integer, nullable=False)
     vo2max = Column(Integer, nullable=False)
+
 
 # generate database file
 if __name__ == "__main__":
