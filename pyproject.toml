@@ -14,4 +14,8 @@ dependencies = [
     "uvicorn>=0.28.0",
     "sqlalchemy>=2.0.0",
     "redis>=5.0.0",
+    "click>=8.1.0",
 ]
+
+[project.scripts]
+immucore = "backend.app.cli:main"
